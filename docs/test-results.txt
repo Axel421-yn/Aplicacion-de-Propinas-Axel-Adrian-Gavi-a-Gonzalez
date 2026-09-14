@@ -1,0 +1,14 @@
+PASS invalidInput
+PASS overflowDoesNotDisplayInfinity
+PASS emptyInput
+PASS dotDecimal
+PASS roundUpWholeNumber
+PASS zeroPercentage
+PASS customPercentage
+PASS fractionalTip
+PASS roundUpFraction
+PASS commaDecimal
+PASS nonFiniteInput
+PASS negativeInput
+PASS currencyFormat
+TOTAL: 13 tests passed
